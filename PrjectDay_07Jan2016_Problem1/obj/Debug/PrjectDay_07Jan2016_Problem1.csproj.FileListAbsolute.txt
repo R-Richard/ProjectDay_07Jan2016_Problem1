@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PrjectDay_07Jan2016_Problem1\PrjectDay_07Jan2016_Problem1\bin\Debug\PrjectDay_07Jan2016_Problem1.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PrjectDay_07Jan2016_Problem1\PrjectDay_07Jan2016_Problem1\bin\Debug\PrjectDay_07Jan2016_Problem1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PrjectDay_07Jan2016_Problem1\PrjectDay_07Jan2016_Problem1\bin\Debug\PrjectDay_07Jan2016_Problem1.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PrjectDay_07Jan2016_Problem1\PrjectDay_07Jan2016_Problem1\obj\Debug\PrjectDay_07Jan2016_Problem1.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PrjectDay_07Jan2016_Problem1\PrjectDay_07Jan2016_Problem1\obj\Debug\PrjectDay_07Jan2016_Problem1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PrjectDay_07Jan2016_Problem1\PrjectDay_07Jan2016_Problem1\obj\Debug\PrjectDay_07Jan2016_Problem1.pdb
